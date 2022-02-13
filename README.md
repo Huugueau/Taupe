@@ -1,3 +1,3 @@
-## Taupe
+# Taupe
 
-# Plugin Test for Hiroshi
+#### Plugin Test for Hiroshi
