@@ -1,0 +1,6 @@
+name: Taupe
+version: '${project.version}'
+main: com.huugueau.Taupe
+api-version: 1.18
+commands:
+  taupe:
